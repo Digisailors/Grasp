@@ -1,7 +1,8 @@
 {
   "hosting": {
-    
+    "site": "graspsoft",
     "public": "public",
+    
     "cleanUrls": true,
     "ignore": [
       "firebase.json",
