@@ -1,6 +1,6 @@
 /*
 
-Template: Hi-soft - IT Solutions and Services Company HTML5 Template
+Template: Grasp Software Solutions SDN BHD
 Author: potenzaglobalsolutions
 Design and Developed by: potenzaglobalsolutions.com
 
