@@ -2,7 +2,7 @@
 
 Template: Digisailor
 Author: potenzaglobalsolutions
-Design and Developed by: potenzaglobalsolutions.com
+Design and Developed by: digisailor
 
 NOTE: This file contains all scripts for the actual Template.
 
